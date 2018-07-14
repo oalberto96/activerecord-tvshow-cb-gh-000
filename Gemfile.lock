@@ -51,10 +51,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord (= 4.2.5)
+  activerecord
   database_cleaner
   pry
-  rake
+  rake (= 10.4.2)
   rspec
   sqlite3
 
